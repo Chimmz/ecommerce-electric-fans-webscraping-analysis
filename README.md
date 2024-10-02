@@ -9,10 +9,12 @@ Data Extraction: Employed CSS selectors and regular expressions to extract speci
 Data Cleaning and Processing:
 
 **Data Cleaning**: Removed irrelevant data, such as product descriptions and reviews.
-**Data Standardization**: Ensured consistent formatting of extracted data (e.g., converting prices to numerical values).
-**Data Organization**: Organized the scraped data into a structured format, such as a CSV or JSON file.
-**Data Analysis**:
 
+**Data Standardization**: Ensured consistent formatting of extracted data (e.g., converting prices to numerical values).
+
+**Data Organization**: Organized the scraped data into a structured format, such as a CSV or JSON file.
+
+**Data Analysis**:
 Product Availability: Analyzed the availability of different electric fan sizes (e.g., 12 inches, 16 inches, 18 inches, etc.) to identify potential shortages or surpluses.
 Price Analysis: Compared prices across different brands and models to identify the most affordable options.
 Customer Reviews: Analyzed customer reviews to gauge the satisfaction level with various electric fan brands and models.
